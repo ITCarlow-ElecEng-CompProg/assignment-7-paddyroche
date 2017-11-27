@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508839380 source:f:\paddy yr2\comp prog\ex 7\main.cpp
+	<iostream>
+	<cmath>
+	<tgmath.h>
+	<windows.h>
+
+1510606432 source:d:\paddy yr2\comp prog\ex 7\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<tgmath.h>
+	<windows.h>
+
